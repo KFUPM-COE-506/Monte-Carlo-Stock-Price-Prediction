@@ -1,0 +1,26 @@
+# Python Dependencies for GPU-Accelerated Monte Carlo Stock Price Prediction
+#
+# Course: 251-COE-506-01 (GPU Programming & Architecture)
+# Institution: King Fahd University of Petroleum & Minerals
+
+# Core Numerical Computing
+numpy>=1.21.0
+
+# GPU Acceleration
+numba>=0.55.0
+
+# Data Analysis and Visualization
+matplotlib>=3.5.0
+pandas>=1.3.0
+
+# Jupyter Notebook Support (for running the notebook)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For enhanced CUDA support (if using CuPy)
+# cupy-cuda12x>=12.0.0  # Uncomment if using CUDA 12.x
+# cupy-cuda11x>=11.0.0  # Uncomment if using CUDA 11.x
+
+# Optional: For additional profiling tools
+# pycuda>=2021.1  # Python bindings for CUDA
+
