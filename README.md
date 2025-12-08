@@ -1,4 +1,4 @@
-# Comprehensive Performance Analysis of GPU-Accelerated Monte Carlo Stock Price Prediction
+# Monte Carlo Stock Price Simulation (CPU vs GPU Acceleration)
 
 **Course:** 251-COE-506-01 (GPU Programming & Architecture)
 **Institution:** King Fahd University of Petroleum & Minerals
